@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bgd-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-22T15:26:08.561368791Z"
+    description: A Helm chart for Kubernetes
+    digest: 3eceb0c16eb70228b51778599db1474283027cbabdd6a751da6cdf5a42064bf4
+    name: bgd-helm-chart
+    type: application
+    urls:
+    - https://github.com/jnewsome97/bgd-helm-chart.github.io/bgd-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-22T15:26:08.560528199Z"
